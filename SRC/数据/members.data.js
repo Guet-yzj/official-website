@@ -70,12 +70,19 @@ const members = [
     githubUrl: 'https://github.com/010505',
     blogUrl: 'https://github.com/010505/official-website'
   },
-    {
+   {
     name: 'norno',
     avatar: 'https://avatars.githubusercontent.com/u/49840142?s=400&u=fcb6055d1e1f7133dc3a363e59c62d3dfc30dac9&v=4',
     description: '0v0',
     githubUrl: 'https://github.com/nornoya',
     blogUrl: 'https://nornoya.github.io/'
+  },
+    {
+    name: 'yang',
+    avatar: 'https://p0.ssl.qhimgs1.com/t01d6860b11d3b243ce.jpg',
+    description: '......',
+    githubUrl: 'https://github.com/Guet-yzj',
+    blogUrl: 'https://guet-yzj.github.io/',
   },
 ];
 
